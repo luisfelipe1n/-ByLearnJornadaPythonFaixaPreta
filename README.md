@@ -1,2 +1,2 @@
 # -ByLearnJornadaPythonFaixaPreta
-média
+ média
