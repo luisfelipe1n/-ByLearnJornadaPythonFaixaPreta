@@ -1,0 +1,5 @@
+notas = [10, 7, 7, 6, 5]
+quantidade = len (notas)
+soma = sum (notas)
+media = soma / quantidade
+print ('a media vale',media)
